@@ -1,0 +1,20 @@
+{
+  "name": "Gattocorni Magici",
+  "short_name": "Gattocorni",
+  "description": "Accarezza i gattocorni, scaccia i mostri e gioca nella casetta magica!",
+  "lang": "it",
+  "start_url": "./?utm_source=twa",
+  "scope": "./",
+  "id": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#ffdff0",
+  "theme_color": "#ffdff0",
+  "categories": ["games", "kids", "entertainment"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
