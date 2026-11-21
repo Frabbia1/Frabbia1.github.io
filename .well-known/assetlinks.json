@@ -1,1 +1,10 @@
-[]
+[][{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.frabbia1.gattocorni",
+    "sha256_cert_fingerprints": [
+      "AC:F4:17:AB:98:25:15:66:8A:4C:DF:4F:19:44:A7:FE:37:39:5C:E9:9E:20:36:A2:D5:3F:F2:90:00:0E:6E:EB"
+    ]
+  }
+}]
